@@ -142,8 +142,11 @@ You must create a `.env` file in the `server` directory. Use the provided `serve
 ### Task List
 ![Task List](./screenshots/task-list.png)
 
-### Mobile Responsive View
-![Mobile View](./screenshots/filter-apply.png)
+### Filtering and Search
+![Filter and Search](./screenshots/filter-apply.png)
+
+### Edit Task
+![Edit Task](./screenshots/Edit-task.png)
 
 ---
 
