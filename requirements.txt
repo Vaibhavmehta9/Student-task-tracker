@@ -1,0 +1,23 @@
+# Frontend Dependencies (React/Vite)
+react
+react-dom
+react-router-dom
+axios
+framer-motion
+lucide-react
+tailwindcss
+@tailwindcss/postcss
+autoprefixer
+postcss
+
+# Backend Dependencies (Node.js/Express)
+express
+mongoose
+cors
+dotenv
+
+# Note: 
+# Since this is a Node.js (MERN) project, dependencies are natively managed 
+# by the 'package.json' files inside the 'client' and 'server' directories.
+# To install all dependencies, you simply run `npm install` inside those folders
+# instead of `pip install -r requirements.txt`.
