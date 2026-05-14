@@ -133,10 +133,17 @@ You must create a `.env` file in the `server` directory. Use the provided `serve
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here before submission!)*
-- **Dashboard Overview:** `![Dashboard](link-to-image)`
-- **Add/Edit Task Modal:** `![Modal](link-to-image)`
-- **Mobile Responsive View:** `![Mobile](link-to-image)`
+### Dashboard Overview
+![Dashboard](./screenshots/dashboard.png)
+
+### Add/Edit Task Modal
+![Add Task Modal](./screenshots/add-task-modal.png)
+
+### Task List
+![Task List](./screenshots/task-list.png)
+
+### Mobile Responsive View
+![Mobile View](./screenshots/filter-apply.png)
 
 ---
 
